@@ -1,4 +1,9 @@
-ui-kit-using-org
-================
+Virtual Labs UI Toolkit using Orgmode
+=================================
 
-Use org and emacs as an authoring tool to create UI Tool kit.
+Use Orgmode and Emacs as an authoring tool to create Virtual Labs UI Toolkit.
+
+
+
+
+

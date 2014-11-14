@@ -28,8 +28,10 @@
 #+KEYWORDS:
 #+LANGUAGE: en
 #+SELECT_TAGS: export
+#+OPTIONS: with-drawers:t
 
 
+# ========================================================================
 
 #+ATTR_HTML: :id lab
 
@@ -37,54 +39,84 @@
 
 #+HTML: <!-- This file needs to be edited by the lab developer to suit their lab requirements. -->
 
+# ========================================================================
+
 #+ATTR_HTML: :id lab-header
 #+BEGIN_HEADER
 
 #+HTML: <!-- The Lab Document Container-->
 #+HTML: <!-- The lab Header contains the logo and the name of the lab, usually displayed on the top of the page-->
 
+# ========================================================================
 #+ATTR_HTML: :id lab-header-logo
 #+BEGIN_LOGO
+
 #+HTML: <!-- Enclose the logo image of your lab or write it in text-->
 #+HTML: <img src="images/logo.jpg">
+
 #+END_LOGO
+# =========================================================================
 
 #+ATTR_HTML: :id lab-header-heading
 #+BEGIN_HEADING
+
 #+HTML: <!-- Write the name of your lab and link it to the home page of your lab. -->
 [[./index.html][Test Lab]]
+
 #+END_HEADING
+# ========================================================================
 
 #+HTML: <!-- Add any additional element or link you want to add to the lab header, For example : Help (Enclosing them with suitable div is recommended)-->
 
 #+END_HEADER
 
+
 #+HTML: <!-- The lab article is the main content area where all the experiment content sits-->
+
+# =======================================================================
 
 #+ATTR_HTML: :id lab-article
 #+BEGIN_ARTICLE
 
 #+HTML: <!-- The lab article has an header, optional navigational menu, number of sections, an optional sidebar and a closing footer-->
 
+# =====================================================================
+
 #+ATTR_HTML: :id lab-article-header 
 #+BEGIN_HEADER
+
 #+HTML: <!-- You can add a welcome message or title of the experiment enclosed in h1 tag here -->
+
+# =====================================================================
 
 #+ATTR_HTML: :id lab-article-heading
 #+BEGIN_HEADING
+
 Welcome to my lab!
+
 #+END_HEADING
+
+# =====================================================================
 
 #+HTML: <!-- Add any additional element if required with proper enclosing-->
 
 #+END_HEADER
 
+# =====================================================================
+
 #+HTML: <!-- Navigation menu is useful to organize the view of multiple sections inside the article-->
+
+# =====================================================================
 
 #+ATTR_HTML: :id lab-article-navigation :class default
 #+BEGIN_NAV
+
 #+HTML: <!-- The menu will be dynamically generated to contain the headings of your sections or instead write the menu items of your choice individually enclosed in <li> tag as shown below-->
+
 #+END_NAV
+
+# ====================================================================
+
 
 #+HTML: <!-- All the sections of your lab or experiment can be enclosed together with a div element as shown below-->
 
@@ -92,55 +124,96 @@ Welcome to my lab!
 
 #+HTML: <!-- First section of the article-->
 
-#+ATTR_HTML: :id lab-article-sections
+
+# ===================================================================
 
 #+ATTR_HTML: :id lab-article-section-1
 #+BEGIN_SECTION
 
+# ===================================================================
+
 #+ATTR_HTML: :id lab-article-section-1-icon
 #+BEGIN_ICON
+
 #+HTML: <!-- Enclose the icon image for the section. -->
 #+HTML: <img src="images/introduction.jpg">
+
 #+END_ICON
 
+# ================================================================
+
 #+HTML: <!-- The heading for the section can be enclosed in a div tag. -->
+
+# ================================================================
+
 #+ATTR_HTML: :id lab-article-section-1-heading
 #+BEGIN_HEADING
+
 Introduction
+
 #+END_HEADING
+
+# ================================================================
 
 #+HTML: <!-- Write the section content inside a paragraph element, You can also include images with <img> tag -->
 
+# ================================================================
+
 #+ATTR_HTML: :id lab-article-section-1-content
 #+BEGIN_CONTENT
+
 Welcome to the Security lab! In this lab, we will do 
 virtual experiments to understand Newton's laws of 
 motion. We will start with a simple pendulum, and from
 then on, the experiments get more interesting.
+
 #+END_CONTENT
+
+# ================================================================
 
 #+END_SECTION
 
+# ================================================================
+
 #+HTML: <!-- Second section of the article-->
+
+# ===================================================================
+
 #+ATTR_HTML: :id lab-article-section-2
 #+BEGIN_SECTION
 
+# =================================================================
+
 #+ATTR_HTML: :id lab-article-section-2-icon
 #+BEGIN_ICON
+
 #+HTML: <!-- Enclose the icon image for the section. -->
 #+HTML: <img src="images/simulation.jpg">
+
 #+END_ICON
 
+# ======================================================================
+
 #+HTML: <!-- The heading for the section can be enclosed in a div tag and shown with a <h2> tag -->
+
+# =====================================================================
+
 #+ATTR_HTML: :id lab-article-section-2-heading
 #+BEGIN_HEADING
+
 List of Experiments
+
 #+END_HEADING
+
+# ======================================================================
 
 #+HTML: <!-- Write the section content inside a paragraph element, You can also include images with <img> tag -->
 
+# ====================================================================
+
 #+ATTR_HTML: :id lab-article-section-2-content
 #+BEGIN_CONTENT
+
 #+HTML: <!--Link and name of the experiment 1 -->
 
 #+HTML: <ul id="list-of-experiments">
@@ -148,25 +221,53 @@ List of Experiments
 
 #+END_CONTENT
 
+# =====================================================================
+
 #+END_SECTION
 
+# ====================================================================
+
 #+HTML: <!-- An article can have a sidebar that contain related links and additional material (it is optional at this moment)-->
+
+# ======================================================================
+
 #+ATTR_HTML: :id lab-article-sidebar :class default
 #+BEGIN_ASIDE
+
 #+HTML: <!-- put the content that you want to appear in the sidebar-->
+
 #+END_ASIDE
 
+# =======================================================================
+
 #+HTML: <!-- Article footer can display related content and additional links -->
+
+# ========================================================================
+
 #+ATTR_HTML: :id lab-article-footer :class default
 #+BEGIN_FOOTER
+
 #+HTML: <!-- Put the content that you want to appear here-->
+
 #+END_FOOTER
+
+# ========================================================================
 
 #+END_ARTICLE
 
+
+# =========================================================================
+
 #+HTML: <!-- Links to other labs, about us page can be kept the lab footer-->
+
+# =========================================================================
 
 #+ATTR_HTML: :id lab-footer :class default
 #+BEGIN_FOOTER
+
 #+HTML: <!-- Put the content here-->
+
 #+END_FOOTER
+
+
+# =========================================================================
