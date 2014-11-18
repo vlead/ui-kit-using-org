@@ -1,0 +1,68 @@
+#+TITLE:
+#+SETUPFILE: ../org-templates/level-1.org
+
+[[file:../images/1.png]]
+
+* Title1
+ :properties:
+   :html_container_class: title1
+   :custom_id: title1
+ :END:
+
+
+[[../index.org][   COMPUTER PROGRAMMING LAB]]
+
+
+* Main
+ :properties:
+   :html_container_class: main
+   :custom_id: main
+ :end:
+
+
+[[http://virtual-labs.ac.in/index.php][Home]] > [[../index.org][Programming Lab]]
+
+
+* Title2
+ :properties:
+   :html_container_class: title2
+   :custom_id: title2
+ :END:
+
+
+Welcome to Computer Programming Lab
+
+
+* Announcements
+ :properties:
+   :html_container_class: announcements
+   :custom_id: announcements
+ :END:
+
+
+
+[[file:../images/manual.jpg]][[../index.org][  INTRODUCTION]]  [[file:../images/simulation.jpg]][[../experiments/index.org][  LIST OF EXPERIMENTS]]  [[file:../images/introduction.jpg]][[../audience/index.org][  TARGET AUDIENCE]]  [[file:../images/readings.jpg]][[../courses-aligned/index.org][  COURSES ALIGNED]] 
+
+[[file:../images/procedure.jpg]][[../prerequisite/index.org][  PREREQUISITE S/W]]  [[file:../images/manual.jpg]][[../feedback/index.org][  FEEDBACK]]
+
+
+** Target Audience
+
+The experiments are targeted at students who have just finished a first course in programming. Knowledge of writing programs in any programming language is expected. No prior experience with data structures is required. 
+
+\\
+\\
+\\
+\\
+\\
+\\
+
+* Main
+ :properties:
+   :html_container_class: main
+   :custom_id: main
+ :end:
+
+
+[[http://virtual-labs.ac.in/nmeict/][Sponsored by MHRD (NME-ICT) ]]  |  [[http://virtual-labs.ac.in/licensing/][ Licensing Terms ]]  |  [[http://virtual-labs.ac.in/feedback/?lab=cse02/][ Feedback]]
+

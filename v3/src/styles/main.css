@@ -1,0 +1,273 @@
+body { 
+   margin-left: 23%; 
+   margin-right: 23%; 
+   margin-top: -1.8%;
+   font-family: Verdana, sans-serif; 
+/*   font-size: 90%; */
+   color: black;
+   background-color: #325C74;
+}
+
+
+/* colors */
+h1, h2, h3, h4 { 
+   color: black; 
+/*   color: #006600;   green */
+   margin-bottom: 0em;
+}
+
+a:link {
+   text-decoration: none; 
+   color: white; 
+} 
+a:hover {color: #FFCC33; font-weight: bold}
+
+/* color: #2222AA;}  */ /* navy blue */
+
+/* *********************************************************/
+/* Menu */
+/* *********************************************************/
+div.menu {
+  position: fixed;
+  top: 0em;
+  left: 2em;
+  right: auto;
+  margin: 0;
+/*  border: 1px, solid, red; */
+  width: 8em; 
+}
+
+/* Don't display heading */
+div.menu  h2 {
+  display: none;
+}
+
+div.menu  li {
+  margin-left: -1.5em; 
+  padding: 0.3em 0.4em;
+  font-family: Arial, sans-serif;
+  list-style: none;
+  font-size: 110%;
+  font-weight: bold;
+  line-height: 1.1; 
+  text-align: left; 
+
+}
+
+div.menu li  a:link { 
+   text-decoration: none; 
+   color: #CC0033; } /* maroon */
+
+div.menu li a:hover { 
+   background: white; 
+   color: #FFCC33; }
+
+
+
+/* *********************************************************/
+/* title1 */
+/* *********************************************************/
+div.title1  {
+/*  position: fixed;*/
+  top  : 0em;
+  left: 3em;
+  width: 102%;
+  height: 70%;
+  right: auto; 
+  bottom: auto; 
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-right: 0em;
+  margin-left: 0em;
+
+/*  border:5px solid red; */
+
+/*  line-height: 1.1; 
+  text-align: center; */
+  background-color: #33A1C9; 
+}
+
+/* Do not display heading */
+div.title1  h2 {
+  display: none;
+}
+
+div.title1 a:link {
+  margin-left: 3em; 
+  margin-right: 2em;
+  list-style: none;
+  color: white;
+  font-weight: 500;  
+  font-size: 140%;
+  font-family: Verdana, sans-serif;
+}
+
+div.title1 ol li a:link { 
+   text-decoration: none; 
+   color: white; 
+} 
+
+div.title1 ol li a:hover { 
+   display: none;  
+}
+
+
+
+
+
+/* *********************************************************/
+/* title2 */
+/* *********************************************************/
+div.title2  {
+/*  position: fixed;*/
+  top  : 0em;
+  left: 3em;
+  width: 102%;
+  height: 90%;
+  right: auto; 
+  bottom: auto; 
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-right: 0em;
+  margin-left: 0em;
+  font-size: 300%;
+
+/*  border:5px solid red; */
+
+/*  line-height: 1.1; 
+  text-align: center; */
+  background-color: #BFEFFF; 
+}
+
+/* Do not display heading */
+div.title2  h2 {
+  display: none;
+}
+
+div.title2 body { 
+  margin-left: 1em; 
+  margin-right: 0em;
+  font-weight: 700;  
+  font-family: Verdana, sans-serif; 
+  font-size: 180%;
+  color: black;
+}
+
+div.title2 a:link {
+  margin-left: 3em; 
+  margin-right: 2em;
+  list-style: none;
+  color: white;
+  font-weight: 500;  
+  font-size: 180%
+  font-family: Verdana, sans-serif;
+}
+
+div.title2 ol li a:link { 
+   text-decoration: none; 
+   color: white; 
+} 
+
+div.title2 ol li a:hover { 
+   display: none;  
+}
+
+
+
+/* *********************************************************/
+/* Announcements */
+/* *********************************************************/
+div.announcements  {
+/*  position: fixed;*/
+  top  : 23em;
+  left: 1em;
+  width: 102%;
+  height: 40%;
+  right: auto; 
+  bottom: auto; 
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-right: 0em;
+  margin-left: 0em;
+
+/*  border:5px solid red; */
+
+/*  line-height: 1.1; 
+  text-align: center; */
+  background-color: white; /* green */
+}
+
+/* Do not display heading */
+div.announcements  h2 {
+  display: none;
+}
+
+div.announcements dl {
+  margin-left: 2em; 
+  margin-right: 2em;
+/*  border:2px solid blue; */
+  list-style: none;
+
+  color: white;
+  font-weight: 400;  
+  font-size: 120%;
+  font-family: Verdana, sans-serif;
+}
+
+div.announcements ol li a:link { 
+   text-decoration: none; 
+   color: navy; 
+} 
+
+div.announcements ol li a:hover { 
+   background: white; 
+   color: purple; 
+}
+
+
+
+/* *********************************************************/
+/* Main */
+/* *********************************************************/
+
+div.main  h2 {
+  display: none;
+}
+
+
+/* *********************************************************/
+/* Postamble */
+/* *********************************************************/
+#postamble {
+  font-size: 70%;
+}
+
+.postamble span[class="source-file-name"] {
+   color: green;
+}
+
+.postamble span[class="date"] {
+   color: brown;
+}
+
+div.content {
+  margin-left: 15%;
+  margin-right: 5%;
+  font-size: 100% /*larger*/;
+/*  line-height: 1.1; 
+  text-align: center; */
+}
+
+
+
+
+/* Collapsible lists could be useful for open/close blackboard
+
+http://bernholdtech.blogspot.de/2013/04/very-simple-pure-css-collapsible-list.html 
+
+
+Also, 
+
+http://www.cssportal.com/css3-preview/showing-and-hiding-content-with-pure-css3.htm
+
+*/

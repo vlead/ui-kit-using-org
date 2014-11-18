@@ -1,0 +1,80 @@
+#+title:
+#+SETUPFILE: ../org-templates/level-1.org
+
+
+[[file:../images/1.png]]
+
+* Title1
+ :properties:
+   :html_container_class: title1
+   :custom_id: title1
+ :END:
+
+
+[[../index.org][   COMPUTER PROGRAMMING LAB]]
+
+
+* Main
+ :properties:
+   :html_container_class: main
+   :custom_id: main
+ :end:
+
+
+[[http://virtual-labs.ac.in/index.php][Home]] > [[../index.org][Programming Lab]]
+
+
+* Title2
+ :properties:
+   :html_container_class: title2
+   :custom_id: title2
+ :END:
+
+
+Welcome to Computer Programming Lab
+
+
+* Announcements
+ :properties:
+   :html_container_class: announcements
+   :custom_id: announcements
+ :END:
+
+
+
+[[file:../images/manual.jpg]][[../index.org][  INTRODUCTION]]  [[file:../images/simulation.jpg]][[../experiments/index.org][  LIST OF EXPERIMENTS]]  [[file:../images/introduction.jpg]][[../audience/index.org][  TARGET AUDIENCE]]  [[file:../images/readings.jpg]][[../courses-aligned/index.org][  COURSES ALIGNED]] 
+
+[[file:../images/procedure.jpg]][[../prerequisite/index.org][  PREREQUISITE S/W]]  [[file:../images/manual.jpg]][[../feedback/index.org][  FEEDBACK]]
+
+
+** List of Experiments
+
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp1/index.php][Expression Evaluation]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp2/index.php][Basic Control Flow]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp3/index.php][Advanced Control Flow]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp4/index.php][Arrays]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp5/index.php][Functions]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp6/index.php][Recursion]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp7/index.php][Structures]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp8/index.php][Strings]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp9/index.php][Pointers]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp10/index.php][Numerical Approximation]]
+
+\\
+\\
+\\
+\\
+\\
+\\
+
+* Main
+ :properties:
+   :html_container_class: main
+   :custom_id: main
+ :end:
+
+
+[[http://virtual-labs.ac.in/nmeict/][Sponsored by MHRD (NME-ICT) ]]  |  [[http://virtual-labs.ac.in/licensing/][ Licensing Terms ]]  |  [[http://virtual-labs.ac.in/feedback/?lab=cse02/][ Feedback]]
+
+
+
