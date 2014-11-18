@@ -1,0 +1,46 @@
+#+title: Computer Programming Lab
+#+SETUPFILE: ./org-templates/level-0.org
+
+* Menu
+ :properties:
+   :html_container_class: menu
+   :custom_id: menu
+ :END:
+
+  - [[http://virtual-labs.ac.in/index.php][Home]]
+  - [[file:./images/intro.jpg]][[./index.org][  Introduction]]
+  - [[./experiments/index.org][List of Experiments  ]][[file:./images/simulation.jpg]]
+  - [[file:./images/introduction.jpg]][[./audience/index.org][  Target Audience]]
+  - [[./courses-aligned/index.org][Courses Aligned  ]][[file:./images/readings.jpg]]
+  - [[file:./images/procedure.jpg]][[./prerequisite/index.org][  Prerequisite S/W]]
+  - [[./feedback/index.org][Feedback  ]][[file:./images/manual.jpg]]
+
+* Main
+ :properties:
+   :html_container_class: main
+   :custom_id: main
+ :end:
+
+[[file:./images/1.png]]
+
+\\
+
+* Introduction
+
+Welcome to the Computer Programming Lab developed at IIIT Hyderabad. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of the basic concepts and constructs of computer programming. 
+
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+
+[[http://virtual-labs.ac.in/nmeict/][Sponsored by MHRD (NME-ICT) ]]  |  [[http://virtual-labs.ac.in/licensing/][ Licensing Terms ]]  |  [[http://virtual-labs.ac.in/feedback/?lab=cse02/][ Feedback]]
+

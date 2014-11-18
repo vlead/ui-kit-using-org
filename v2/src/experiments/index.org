@@ -1,0 +1,56 @@
+#+title: Computer Programming Lab
+#+SETUPFILE: ../org-templates/level-1.org
+
+* Menu
+ :properties:
+   :html_container_class: menu
+   :custom_id: menu
+ :END:
+
+  - [[http://virtual-labs.ac.in/index.php][Home]]
+  - [[file:../images/intro.jpg]][[../index.org][  Introduction]]
+  - [[../experiments/index.org][List of Experiments  ]][[file:../images/simulation.jpg]]
+  - [[file:../images/introduction.jpg]][[../audience/index.org][  Target Audience]]
+  - [[../courses-aligned/index.org][Courses Aligned  ]][[file:../images/readings.jpg]]
+  - [[file:../images/procedure.jpg]][[../prerequisite/index.org][  Prerequisite S/W]]
+  - [[../feedback/index.org][Feedback  ]][[file:../images/manual.jpg]]
+
+
+
+* Main
+ :properties:
+   :html_container_class: main
+   :custom_id: main
+ :end:
+
+[[file:../images/1.png]]
+
+\\
+
+* List of Experiments
+
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp1/index.php][Expression Evaluation]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp2/index.php][Basic Control Flow]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp3/index.php][Advanced Control Flow]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp4/index.php][Arrays]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp5/index.php][Functions]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp6/index.php][Recursion]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp7/index.php][Structures]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp8/index.php][Strings]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp9/index.php][Pointers]]
+  - [[http://deploy.virtual-labs.ac.in/labs/cse02/exp10/index.php][Numerical Approximation]]
+
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+
+[[http://virtual-labs.ac.in/nmeict/][Sponsored by MHRD (NME-ICT) ]]  |  [[http://virtual-labs.ac.in/licensing/][ Licensing Terms ]]  |  [[http://virtual-labs.ac.in/feedback/?lab=cse02/][ Feedback]]
+
+
+
